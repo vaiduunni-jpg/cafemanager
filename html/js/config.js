@@ -9,7 +9,7 @@
 // ============================================
 const CONFIG = {
   // <- Your deployed Apps Script web app exec URL:
-  APPS_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbwwm57b264_nPDz2QY7W8iuQYWSfdMwJM790PPMKTNStrNpmOLaIh3N21qS7vozLpUTbQ/exec',
+  APPS_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbxatci7fAPhyJlyz38mu6ZhgDPVzMldKO6JxBPmvI8YK_yrcf7_1DpHlzv5aew24Zl8XQ/exec',
 
   API_TIMEOUT: 30000, // ms
   FEATURES: {
