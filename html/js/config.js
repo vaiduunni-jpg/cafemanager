@@ -10,7 +10,7 @@
 
 const CONFIG = {
   // APPS_SCRIPT_URL: set to your deployed web app exec URL (public exec endpoint)
-  APPS_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbytckBFWZzDecVAt6Sh8IoDKJNic_p76nmKxbF4AqfINU1_7-XITxVrT4x33fxt1RXrfA/exec',
+  APPS_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbwwm57b264_nPDz2QY7W8iuQYWSfdMwJM790PPMKTNStrNpmOLaIh3N21qS7vozLpUTbQ/exec',
   
   // API timeout in milliseconds
   API_TIMEOUT: 30000,
